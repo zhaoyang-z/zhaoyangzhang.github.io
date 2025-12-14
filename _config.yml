@@ -1,7 +1,7 @@
 title: Zhaoyang Zhang
 description: Academic Website
-baseurl: ""
-url: ""
+baseurl: "/zhaoyangzhang.github.io"
+url: "https://zhaoyang-z.github.io"
 
 # Build settings
 markdown: kramdown
