@@ -1,0 +1,242 @@
+/* Base styles */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FFFFFF;
+    line-height: 1.4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container */
+.container {
+    width: 790px;
+    margin: 0 auto;
+    padding: 20px 20px 40px 20px;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #8C1515;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: #8C1515;
+}
+
+a:visited {
+    color: #8C1515;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
+}
+
+h1 {
+    font-size: 18px;
+    margin-top: 0.25em;
+}
+
+h2 {
+    font-size: 16px;
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
+}
+
+body {
+    font-size: 12px; 
+}
+
+/* Profile section */
+.profile-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1em;  
+}
+
+.profile-info {
+    flex: 1;
+    padding-right: 2em;
+    max-width: 50%;  /* Give even more space to image */
+}
+
+.profile-image {
+    width: 40%;  /* Use percentage instead of max-width */
+    height: auto;
+    margin-top: 0.75em;
+}
+
+/* Papers list */
+.papers-list {
+    margin-top: 1em;
+}
+
+/* Paper entries and abstract functionality */
+.paper-entry,
+.summary-entry,
+.writing-entry {
+    margin-bottom: 0.75em;
+    padding-bottom: 0;
+}
+
+.paper-title,
+.summary-title,
+.writing-title {
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    display: inline;
+}
+
+.paper-info,
+.summary-info,
+.writing-info {
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
+    line-height: 1.4;
+}
+
+.paper-authors {
+    font-style: italic;
+}
+
+/* Abstract styles */
+.abstract {
+    margin: 0.5em 0;
+    padding: 0.75em;
+    background-color: #f5f5f5;
+    border-left: 3px solid #8C1515;
+    font-size: 0.9em;
+}
+
+/* Abstract toggle button */
+.abstract-toggle {
+    display: inline-block;
+    margin-left: 0.5em;
+    padding: 0.2em 0.5em;
+    font-size: 0.9em;
+    cursor: pointer;
+    color: #8C1515;
+    background: none;
+    border: 1px solid #8C1515;
+    border-radius: 3px;
+}
+
+.abstract-toggle:hover {
+    background-color: #f5f5f5;
+    text-decoration: none;
+}
+
+/* Links section */
+.links-section {
+    margin: 0.5em 0;
+}
+
+.links-section a {
+    display: block;
+    margin: 0.25em 0;
+}
+
+/* PDF links */
+.pdf-link {
+    color: #8C1515;
+    font-weight: bold;
+}
+
+/* Appendix links */
+.appendix-link {
+    color: #53565A;
+    text-decoration: none;
+}
+
+.appendix-link:hover {
+    text-decoration: underline;
+}
+
+/* Updates and news section */
+.updates {
+    margin: 2em 0;
+    padding: 1em;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+}
+
+/* Citations and references */
+.citation {
+    font-style: italic;
+    margin-bottom: 0.25em;
+    line-height: 1.4;
+}
+
+/* Journal references */
+.journal {
+    font-style: italic;
+}
+
+/* Year indicators */
+.year {
+    font-weight: bold;
+    color: #666;
+}
+
+/* Footer */
+footer {
+    margin-top: 2em;
+    padding-top: 1em;
+    border-top: 1px solid #eee;
+    font-size: 0.9em;
+}
+
+/* Dataset section spacing */
+#datasets li {
+    margin-bottom: 0.75em;
+    line-height: 1.4;
+}
+
+/* General list styling */
+.container ul {
+    margin-top: 0.5em;
+    margin-bottom: 0.75em;
+}
+
+.container ul li {
+    margin-bottom: 0.75em;
+}
+
+/* Responsive design */
+@media screen and (max-width: 800px) {
+    .container {
+        width: 95%;
+        padding: 10px;
+    }
+
+    .profile-section {
+        flex-direction: column;
+    }
+
+    .profile-image {
+        margin-top: 1em;
+        max-width: 200px;
+    }
+    
+    .abstract-toggle {
+        display: inline-block;
+        margin: 0.25em;
+        width: auto;
+    }
+    
+    h1 {
+        font-size: 22px;
+    }
+    
+    h2 {
+        font-size: 18px;
+    }
+}

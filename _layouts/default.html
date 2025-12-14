@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    {% include head.html %}
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="{{ 'assets/css/styles.css' | relative_url }}">
+</head>
+<body>
+    <div class="container">
+        {{ content }}
+    </div>
+
+    <!-- Add this before closing body tag to ensure DOM is loaded -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const toggleButtons = document.querySelectorAll('.abstract-toggle');
+            toggleButtons.forEach(button => {
+                button.addEventListener('click', function() {
+                    const abstractId = this.dataset.target;
+                    toggleAbstract(abstractId);
+                });
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+summaries:
+  - id: 1
+    title: "NBER Reporter 2022: Cultural Transmission in Education"
+    authors: "David Figlio and Paola Giuliano"
+    date: "July 2022"
+    pdf: "assets/papers/NBERReporterN2_2022.pdf"
+
+  - id: 2
+    title: "NBER Reporter 2011: Trust and Finance"
+    authors: "Luigi Zingales"
+    date: "July 2011"
+    pdf: "assets/papers/NBERReporter2011_2.pdf"

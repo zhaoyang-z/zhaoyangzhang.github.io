@@ -1,0 +1,615 @@
+
+- id: 1
+  title: Embedded Culture as a Source of Comparative Advantage
+  pdf: assets/papers/cultureHandbook.pdf
+  authors: Luigi Guiso and Luigi Zingales
+  journal: Handbook of Culture and Economic Behavior
+  date: Forthcoming
+  abstract: This paper examines how the concept of embedded culture played a transformative role in the ongoing cultural revolution within economics and business.  We trace the field's shift from the 20th-century concept of homo economicus universalis to an approach incorporating cultural embeddedness in economic behavior. Beyond documenting this intellectual transformation, we identify fertile areas for future research and explore how an embedded cultural perspective can enhance both our understanding of economic phenomena and the design of effective policies.
+
+- id: 2
+  title: Overconfidence and Preferences for Competition
+  pdf: assets/papers/PreferenceCompetition.pdf
+  appendix: assets/papers/AppendixPreferenceCompetition.pdf
+  authors: Ernesto Reuben and Luigi Zingales
+  journal: Journal of Finance
+  date: April 2024
+  pages: 1087-1121
+  abstract: We study whether and when preferences for competition are a positive economic
+    trait among high-earners and to what extent this trait can explain the gender
+    gap in income among MBAs. Consistent with the experimental evidence, preferences
+    for competition are a positive economic trait only for non-overconfident individuals.
+    Preferences for competition correlate with income only at graduation when bonuses
+    are guaranteed and not a function of performance. Overconfident, competitionloving
+    MBAs have lower compensation and income growth, and experience greater exit from
+    high-reward industries and more frequent job interruptions. Preferences for competition
+    do not explain the gender pay gap among MBAs.
+
+- id: 3
+  title: 'Diversity in Schools: Immigrants and the Educational Performance of U.S. Born Students'
+  pdf: assets/papers/DiversityinSchools.pdf
+  appendix: assets/papers/AppendixAImmigrants.pdf
+  authors: David Figlio, Paola Giuliano, Riccardo Marchingiglio, and Umut Ozek
+  journal: Review of Economic Studies
+  date: March 2024
+  volume: '91'
+  pages: 972-1006
+  abstract: We study the effect of exposure to immigrants on the educational outcomes
+    of U.S.-born students, using a unique dataset combining population-level birth
+    and school records from Florida. This research question is complicated by substantial
+    school selection of U.S.-born students, especially among White and comparatively
+    affluent students, in response to the presence of immigrant students in the school.
+    We propose a new identification strategy, comparing sibling outcomes with the
+    inclusion of family fixed effects, to partial out the unobserved non-random selection
+    of native-born families into schools. We find that the presence of immigrant students
+    has a positive effect on the academic achievement of U.S.-born students, especially
+    for students from disadvantaged backgrounds. Moreover, the presence of immigrants
+    does not negatively affect the performance of affluent U.S.-born students, who
+    typically show a higher academic achievement compared to immigrant students. We
+    provide suggestive evidence on potential channels.
+
+- id: 4
+  title: Effect of Mood and Worker Incentives on Workplace Productivity
+  pdf: assets/papers/Mood.pdf
+  authors: Decio Coviello, Erika Deserrano, and Nicola Persico
+  journal: The Journal of Law, Economics & Organization
+  date: September 2022
+  abstract: We study the causal effect of mood on the productivity of call-center
+    workers. Mood is measured through an online "mood questionnaire" which the workers
+    are encouraged to fill out daily. We find that better mood actually decreases
+    worker productivity for workers whose compensation is largely fixed. The negative
+    effect of mood is attenuated for workers whose compensation is based on performance
+    (high-powered incentives). This finding holds both at a correlational level and
+    in two IV settings, where mood is instrumented for by weather, or, alternatively,
+    by whether the local professional sports team played/won the day before. We rule
+    out a number of threats to the exclusion restrictions, and discuss the mechanisms
+    that could generate our findings.
+
+- id: 5
+  title: The Family Origin of the Math Gender Gap is a White Affluent Phenomenon
+  pdf: assets/papers/AER_PP_Gender_20201226.pdf
+  appendix: assets/papers/AER_PP_Gender_appendix_20201226.pdf
+  authors: Gaia Dossi, David Figlio, and Paola Giuliano
+  journal: American Economic Review
+  date: May 2021
+  pages: 179-183
+  abstract: We study the heterogeneity of the impact of gender bias transmission within
+    families for the gender gap in mathematics. We find that the phenomenon is concentrated
+    in white affluent families, lending support to the hypothesis that parents support
+    of their children through investment in education is the main mechanism through
+    which differential gender achievements is obtained. Families with more resources
+    and biased attitudes toward women are more likely to have a negative impact on
+    their daughters' education (JEL A0,D01,D9,Z1)
+
+- id: 6
+  title: 'Born in the Family: Preferences for Boys and the Gender Gap in Math'
+  pdf: assets/papers/Borninthefamily.pdf
+  appendix: assets/papers/BornintheFamilyOnlineAppendix_December2020.pdf
+  authors: Gaia Dossi, David Figlio, and Paola Giuliano
+  journal: Journal of Economic Behavior and Organization
+  date: March 2021
+  pages: 175-188
+  abstract: We study the effect of preferences for boys on the performance in mathematics
+    of girls, using evidence from two different data sources. In our first set of
+    results, we identify families with a preference for boys by using fertility stopping
+    rules in a large population of households whose children attend public schools
+    in Florida. Girls growing up in a boy-biased family score on average 3 percentage
+    points lower on math tests when compared to girls raised in other types of families.
+    In our second set of results, we find similar effects when we study the correlations
+    between girls� performance in mathematics and maternal gender role attitudes,
+    using evidence from the National Longitudinal Survey of Youth. We conclude that
+    socialization at home can explain a non-trivial part of the observed gender disparities
+    in mathematics performance and document that maternal gender attitudes correlate
+    with those of their children, supporting the hypothesis that preferences transmitted
+    through the family impact children behavior.
+
+- id: 7
+  title: Civic Capital and Social Distancing during the Covid-19 Pandemic
+  pdf: assets/papers/Covid.pdf
+  appendix: assets/papers/CovidAppendix.pdf
+  authors: John M. Barrios, Efraim Benmelech, Yael V. Hochberg, and Luigi Zingales
+  journal: Journal of Public Economics
+  date: January 2021
+  abstract: Using mobile phone and survey data, we show that during the early phases
+    of COVID-19, voluntary social distancing was greater in areas with higher civic
+    capital and amongst individuals exhibiting a higher sense of civic duty. This
+    effect is robust to including controls for political ideology, income, age, education,
+    and other local-level characteristics. This result is present for U.S. individuals
+    and U.S. counties as well as European regions. Moreover, we show that after U.S.
+    states began re-opening, high civic capital counties maintained a more sustained
+    level of social distancing, while low civic capital counties did not. Finally,
+    we show that U.S. individuals report a higher tendency to use protective face
+    masks in high civic capital counties. Our evidence points to the importance of
+    considering the level of civic capital in designing public policies not only in
+    response to pandemics, but also more generally.
+
+- id: 8
+  title: The Cost of Being too Patient
+  pdf: assets/papers/patience_happiness.pdf
+  authors: Paola Giuliano
+  journal: American Economic Review
+  date: May 2020
+  pages: 314-18
+  abstract: 'We study the cost of being too patient on happiness. We find that the
+    relationship between patience and various measures of subjective well-being is
+    hump-shaped: it exists an optimal amount of patience that maximizes happiness.
+    Beyond this optimal level, higher levels of patience have a negative impact on
+    well-being. (JEL A0,D01,D9,Z1)'
+
+- id: 9
+  title: Long-Term Orientation and Educational Performance
+  pdf: assets/papers/LTOForthcoming.pdf
+  appendix: assets/papers/Online_Appendix_LTO.pdf
+  authors: David Figlio, Paola Giuliano, and Umut Ozek
+  journal: 'American Economic Journal: Economic Policy'
+  date: November 2019
+  volume: '11'
+  pages: 272-309
+  abstract: We study the role of Long-Term Orientation on the educational attainment
+    of immigrant students. Controlling for the quality of schools and socio-economic
+    characteristics, students from long-term oriented cultures perform better in third
+    grade reading and math, have larger test score gains over time, fewer absences
+    and disciplinary incidents, are less likely to repeat grades, more likely to enroll
+    in advanced high school courses and more likely to graduate from high school in
+    four years. Evidence on mechanisms suggests that both parents' educational choices
+    for their children and social learning from peers are important mechanisms. (JEL
+    I20, I24, J15, Z1)
+
+- id: 10
+  title: Time Varying Risk Aversion
+  pdf: assets/papers/RiskAversion.pdf
+  appendix: assets/papers/RiskAversionAppendix.pdf
+  authors: Luigi Guiso and Luigi Zingales
+  journal: Journal of Financial Economics
+  date: June 2018
+  volume: '128'
+  pages: 403-421
+  abstract: "Exploiting portfolio data and repeated surveys of an Italian bank clients
+    we test whether investors' risk aversion increases following the 2008 crisis.
+    We find that, after the crisis, both qualitative and quantitative measures of
+    risk aversion increase substantially and that affected individuals divest more
+    from stock. We investigate four explanations: changes in wealth, expected income,
+    perceived probabilities, and emotion-based changes of the utility function. Our
+    data are inconsistent with the first two channels, while they suggest that fear
+    is a potential mechanism underlying financial decisions, whether by increasing
+    the curvature of the utility function or the salience of negative outcomes."
+
+- id: 11
+  title: Long Term Persistence
+  pdf: assets/papers/LTP_final.pdf
+  appendix: assets/papers/PutnamAppendix.pdf
+  authors: Luigi Guiso and Luigi Zingales
+  journal: Journal of European Economic Association,
+  date: December 2016
+  volume: 14(6)
+  pages: 1401-1436
+  abstract: "We study whether a positive historical shock can generate long-term persistence
+    in development. We show that Italian cities that achieved self-government in the
+    Middle Ages have a higher level of civic capital today than similar cities in
+    the same area that did not. The size of this effect increases with the length
+    of the period of independence and its intensity. This effect persists even after
+    accounting for the fact that cities did not become independent randomly. We conjecture
+    that the Middle-Age experience of self-government fostered self-efficacy beliefs
+    in one's own ability to complete tasks and reach goals and this positive attitude,
+    transmitted across generations, enhances civic capital today. Consistently, we
+    find that fifth-graders in former free city-states exhibit stronger self-efficacy
+    beliefs and that these beliefs are correlated with a higher level of civic capital.
+    (JEL: O43, P16, O10)"
+
+- id: 12
+  title: Monnet's Error?
+  pdf: assets/papers/Monnet_EP_format.pdf
+  authors: Luigi Guiso and Luigi Zingales
+  journal: Economic Policy
+  date: 2016
+  volume: '31'
+  pages: 247-297
+  abstract: "Entering a currency union without any political union European countries
+    have taken a gamble: will the needs of the currency unions force a political integration
+    (as anticipated by Monnet) or will the tensions create a backlash, as suggested
+    by Kaldor, Friedman and many others? We try to answer this question by analyzing
+    the cross sectional and time series variation in pro-European sentiments in the
+    EU 15 countries. The 1992 Maastricht Treaty seems to have reduced the pro-Europe
+    sentiment as does the 2010 Eurozone crisis. Yet, in spite of the worst recession
+    in recent history, the Europeans still support the common currency. Europe seems
+    trapped: there is no desire to go backward, no interest in going forward, but
+    it is economically unsustainable to stay still."
+
+- id: 13
+  title: Corporate Culture, Societal Culture, and Institutions
+  pdf: assets/papers/aerp20151074.pdf
+  authors: Luigi Guiso and Luigi Zingales
+  journal: American Economic Review, Papers and Proceedings
+  date: 2015
+  volume: 105(5)
+  pages: 336-339
+  abstract: While both cultural and legal norms (institutions) help foster cooperation,
+    culture is the more primitive of the two and itself sustains formal institutions.
+    Cultural changes are rarer and slower than changes in legal institutions, which
+    makes it difficult to identify the role played by culture. Cultural changes and
+    their effects are easier to identify in simpler, more controlled, environments,
+    such as corporations. Corporate culture, thus, is not only interesting per se,
+    but also as a laboratory to study the role of societal culture and the way it
+    can be changed.
+
+- id: 14
+  title: The Value of Corporate Culture
+  pdf: assets/papers/CorporateCulture.pdf
+  authors: Luigi Guiso and Luigi Zingales
+  journal: Journal of Financial Economics
+  date: 2015
+  volume: 117(1)
+  pages: 60-76
+  abstract: We study which dimensions of corporate culture are related to a firm'
+    performance and why. We find that proclaimed values appear irrelevant. Yet, when
+    employees perceive top managers as trustworthy and ethical, firm' performance
+    is stronger. We then study how different governance structures impact the ability
+    to sustain integrity as a corporate value. We find that publicly traded firms
+    are less able to sustain it. Traditional measures of corporate governance do not
+    seem to have much of an impact.
+
+- id: 15
+  title: Procrastination and Impatience
+  pdf: assets/papers/ProcrastinationImpatience.pdf
+  authors: Ernesto Reuben and Luigi Zingales
+  journal: Journal of Behavioral and Experimental Economics
+  date: 2015
+  pages: 63-76
+  abstract: "We use a combination of lab and field evidence to study whether highly-impatient
+    individuals are more likely to procrastinate. To measure impatience, we elicit
+    individual discount rates by giving participants choices between smaller-sooner
+    and larger-later rewards. To measure procrastination, we record how fast participants
+    complete three tasks: an online game, their application to the university, and
+    a mandatory survey. We find that, consistent with the theory, impatient individuals
+    procrastinate more, but only in tasks where there are costs to delay (the online
+    game and university application). Since we paid participants by check to control
+    for transaction costs, we are also able to determine whether the participants'
+    cashing behavior is consistent with the timing of their payment choice. We find
+    substantial evidence of time inconsistency. Namely, more than half of the participants
+    who received their check straight away instead of waiting two weeks for a reasonably
+    larger amount, subsequently took more than two weeks to cash it."
+
+- id: 16
+  title: How Stereotypes Impair Women's Career in Science
+  authors: Ernesto Reuben and Luigi Zingales
+  journal: Proceedings of the National Academy of Sciences
+  date: 2014
+  volume: 111(12)
+  pages: 4403-4408
+  abstract: Women outnumber men in undergraduate enrollments, but they are much less
+    likely than men to major in mathematics or science or to choose a profession in
+    these fields. This outcome often is attributed to the effects of negative sex-based
+    stereotypes. We studied the effect of such stereotypes in an experimental market,
+    where subjects were hired to perform an arithmetic task that, on average, both
+    genders perform equally well. We find that without any information other than
+    a candidate's appearance (which makes sex clear), both male and female subjects
+    are twice more likely to hire a man than a woman. The discrimination survives
+    if performance on the arithmetic task is self-reported, because men tend to boast
+    about their performance, whereas women generally underreport it. The discrimination
+    is reduced, but not eliminated, by providing full information about previous performance
+    on the task. By using the Implicit Association Test, we show that implicit stereotypes
+    are responsible for the initial average bias in sex-related beliefs and for a
+    bias in updating expectations when performance information is self-reported. That
+    is, employers biased against women are less likely to take into account the fact
+    that men, on average, boast more than women about their future performance, leading
+    to suboptimal hiring choices that remain biased in favor of men.
+
+- id: 17
+  title: Economic Experts versus Average Americans
+  pdf: assets/papers/aer2013.pdf
+  appendix: assets/papers/AppendixAER2013.pdf
+  authors: Luigi Zingales
+  journal: American Economic Review, Papers and Proceedings
+  date: May 2013
+  volume: 103(3)
+  pages: 636–642
+  
+
+- id: 18
+  title: The Determinants of Attitudes towards Strategic Default on Mortgages
+  pdf: assets/papers/Guiso_Sapienza_Zingales_StrategicDefault.pdf
+  appendix: assets/papers/AppendixSD.pdf
+  authors: Luigi Guiso and Luigi Zingales
+  journal: Journal of Finance
+  date: August 2013
+  volume: 68(4)
+  pages: 1473-1515
+  abstract: We use survey data to measure households� propensity to default on mortgages
+    even if they can afford to pay them (strategic default) when the value of the
+    mortgage exceeds the value of the house. The willingness to default increases
+    both in the absolute and in the relative size of the home-equity shortfall. Our
+    evidence suggests that this willingness is affected both by pecuniary and non-pecuniary
+    factors, such as views about fairness and morality. We also find that exposure
+    to other people who strategically defaulted increases the propensity to default
+    strategically because it conveys information about the probability of being sued.
+
+- id: 19
+  title: Understanding Trust
+  pdf: assets/papers/Understandingtrust.pdf
+  authors: Anna Toldra and Luigi Zingales
+  journal: The Economic Journal
+  date: December 2013
+  volume: 123(573)
+  pages: 1313-1332
+  abstract: The World Values Survey (WVS) question on trust has been widely used to
+    study the economic effect of trust. Recent work, however, questions its validity
+    as an accurate measure of trust by showing that it is not correlated with the
+    sender�s behaviour in the Berg et al. trust game. What measure then should we
+    trust to measure trust? In this article, we argue that the sender's behaviour
+    in a trust game is driven both by beliefs and by preferences. In contrast, WVS-like
+    measures capture mostly the belief based component of a trust game.
+
+- id: 20
+  title: The emergence of male leadership in competitive environments
+  authors: Ernesto Reuben, Pedro Rey-Biel and Luigi Zingales
+  journal: Journal of Economic Behavior & Organization
+  date: June 2012
+  volume: 83(1)
+  pages: 111-117
+  abstract: We present evidence from an experiment in which groups select a leader
+    to compete against the leaders of other groups in a real-effort task that they
+    have all performed in the past. We find that women are selected much less often
+    as leaders than is suggested by their individual past performance. We study three
+    potential explanations for the underrepresentation of women, namely, gender differences
+    in overconfidence concerning past performance, in the willingness to exaggerate
+    past performance to the group, and in the reaction to monetary incentives. We
+    find that men's overconfidence is the driving force behind the observed prevalence
+    of male representation.
+
+
+- id: 21
+  title: "Civic Capital as the Missing Link"
+  pdf: "assets/papers/civic_cap.pdf"
+  authors: Luigi Guiso and Luigi Zingales
+  publication: "Handbook of Social Economics"
+  editors: "Jess Benhabib, Alberto Bisin and Matthew Jackson"
+  volume: "1"
+  pages: 417-480
+  publisher: "Elsevier"
+  date: "2011"
+  abstract: This chapter reviews the recent debate about the role of social capital in economics. We argue that all the difficulties this concept has encountered in economics are due to a vague and excessively broad definition. For this reason, we restrict social capital to the set of values and beliefs that help cooperation—which for clarity we label civic capital. We argue that this definition differentiates social capital from human capital and satisfies the properties of the standard notion of capital. We then argue that civic capital can explain why differences in economic performance persist over centuries and discuss how the effect of civic capital can be distinguished empirically from other variables that affect economic performance and its persistence, including institutions and geography.
+
+
+- id: 22
+  title: What Do Independent Directors Know? Evidence from Their Trading
+  pdf: assets/papers/ravina_sapienza.pdf
+  authors: Enrichetta Ravina
+  journal: The Review of Financial Studies
+  date: March 2010
+  volume: 23(3)
+  pages: 962-1003
+  abstract: We compare the trading performance of independent directors and other
+    officers of the firm. We find that independent directors earn positive and substantial
+    abnormal returns when they purchase their company stock, and that the difference
+    with the same firm's officers is relatively small at most horizons. The results
+    are robust to controlling for firm-fixed effects and to using a variety of alternative
+    specifications. Executive officers and independent directors make higher returns
+    in firms with the weakest governance and the gap between these two groups widens
+    in such firms. Independent directors who sit on the audit committee earn higher
+    returns than other independent directors at the same firm. Finally, independent
+    directors earn significantly higher returns than the market when they sell the
+    company stock in a window before bad news and around earnings restatements.
+
+- id: 23
+  title: Gender differences in financial risk aversion and career choices are affected
+    by testosterone
+  authors: Dario Maestripieri and Luigi Zingales
+  journal: Proceeding of the National Academy of Sciences
+  date: September 2009
+  doi: https://doi.org/10.1073/pnas.0907352106
+  Volume: 106 (36) 
+  pages: 15268-15273
+
+- id: 24
+  title: Time Discounting for Primary and Monetary Rewards
+  pdf: assets/papers/Money&Chocolate.pdf
+  authors: Ernesto Reuben and Luigi Zingales
+  journal: Economic Letters
+  date: January 2010
+  volume: 106(2)
+  pages: 125-127
+  abstract: This paper reports a positive and statistically significant relation between
+    the short-term discount rate over a monetary reward and the short-term discount
+    rate over a primary reward (chocolate). This relation is most evident among people
+    who like chocolate and are hungry. This finding suggests that this type of experiments
+    identifies an underling individual trait, consistent with of present-biased preferences.
+
+- id: 25
+  title: Cultural Biases in Economic Exchange?
+  pdf: assets/papers/cultural_biases.pdf
+  appendix: assets/papers/OnlineAppendix.pdf
+  authors: Luigi Guiso and Luigi Zingales
+  journal: The Quarterly Journal of Economics
+  volume: 124(3)
+  pages: 1095-1131
+  abstract: How much do cultural biases affect economic exchange? We try to answer
+    this question by using data on bilateral trust between European countries. We
+    document that this trust is affected not only by the characteristics of the country
+    being trusted, but also by cultural aspects of the match between trusting country
+    and trusted country, such as religion, history of conflicts, and genetic and somatic
+    similarities. We then find that lower bilateral trust leads to less trade between
+    two countries, less portfolio investment, and less direct investment, even after
+    controlling for the characteristics of the two countries. This effect is stronger
+    for goodsthat are more trust intensive. Our results suggest that perceptions rooted
+    in culture are important (and generally omitted) determinants of economic exchange.
+
+- id: 26
+  title: Is Mistrust Self-Fulfilling?
+  pdf: assets/papers/mistrust.pdf
+  authors: Ernesto Reuben and Luigi Zingales
+  journal: Economic Letters
+  date: August 2009
+  volume: 104(2)
+  pages: 89-91
+  abstract: We study experimentally the effect of expectations on whether trust is
+    repaid. Subjects respond with untrustworthy behavior if they see that little is
+    expected of them. This suggests that guilt aversion plays an important role in
+    the repayment of trust.
+
+- id: 27
+  title: A Lobbying Approach to Evaluating the Sarbanes-Oxley Act of 2002
+  pdf: assets/papers/HSVJ.pdf
+  authors: Yael Hochberg and Annette Vissing-Jorgensen
+  journal: Journal of Accounting Research
+  date: May 2009
+  volume: 47(2)
+  pages: 519-583
+  abstract: We evaluate the impact of the Sarbanes-Oxley Act (SOX) on shareholders
+    by studying the lobbying behavior of investors and corporate insiders in order
+    to affect the final implemented rules under SOX. Investors lobbied overwhelmingly
+    in favor of strict implementation of SOX, while corporate insiders and business
+    groups lobbied against strict implementation. We identify firms most affected
+    by the law as those whose insiders lobbied against strict implementation. Such
+    firms appear to be characterized by agency problems, rather than motivated by
+    concerns over compliance costs. Cumulative stock returns during the five and a
+    half months leading up to SOX passage were approximately 7% higher for corporations
+    whose insiders lobbied against SOX disclosure-related provisions than for similar
+    non-lobbying firms, consistent with an expectation that SOX would reduce agency
+    problems. Analysis of returns in the post-passage implementation period suggests
+    that investors' positive expectations with regards to the effects of these provisions
+    were warranted.
+
+- id: 28
+  title: 'The Stock Market and Corporate Investment: a Test of Catering Theory'
+  pdf: assets/papers/polk-sapienza.pdf
+  authors: Christopher Polk
+  journal: Review of Financial Studies
+  date: January 2009
+  volume: 22(1)
+  pages: 187-217
+  abstract: We test a catering theory describing how stock market mispricing might
+    influence individual firms� investment decisions. We use discretionary accruals
+    as our proxy for mispricing. We find a positive relation between abnormal investment
+    and discretionary accruals; that abnormal investment is more sensitive to discretionary
+    accruals for firms with higher R&D intensity (opaque firms) or share turnover
+    (firms with shorter shareholder horizons); that firms with high abnormal investment
+    subsequently have low stock returns; and that the larger the relative price premium,
+    the stronger the abnormal return predictability. We show that patterns in abnormal
+    returns are stronger for firms with higher R&D intensity or share turnover.
+
+- id: 29
+  title: Trusting the Stock Market
+  pdf: assets/papers/trusting_stock.pdf
+  authors: Luigi Guiso and Luigi Zingales
+  journal: The Journal of Finance
+  date: December 2008
+  volume: 63(6)
+  pages: 2557-2600
+  abstract: We study the effect that a general lack of trust can have on stock market
+    participation. In deciding whether to buy stocks, investors factor in the risk
+    of being cheated. The perception of this risk is a function not only of the objective
+    characteristics of the stocks, but also of the subjective characteristics of the
+    investor. Less trusting individuals are less likely to buy stock and, conditional
+    on buying stock, they will buy less. We find evidence consistent with these propositions
+    in Dutch and Italian micro data, as well as in cross country data. All the evidence
+    suggests that lack of trust could be an important factor in explaining the limited
+    participation puzzle, especially among more wealthy investors.
+
+- id: 30
+  title: Culture, Math, and Gender
+  pdf: assets/papers/science.pdf
+  doi: http://www.sciencemag.org/cgi/content/full/320/5880/1164/DC1
+  authors: Luigi Guiso, Ferdinando Monte and Luigi Zingales
+  journal: Science
+  volume: 320(5880)
+  pages: 1164-1165
+  abstract: Analysis of PISA results suggests that the gender gap in math scores disappears
+    in countries with a more gender-equal culture.
+
+- id: 31
+  title: Alfred Marshall Lecture -- Social Capital as Good Culture
+  pdf: assets/papers/social_capital_jeea.pdf
+  authors: Luigi Guiso and Luigi Zingales
+  journal: The Journal of the European Economic Association
+  date: May 2008
+  volume: 20(2)
+  pages: 295-320
+  abstract: To explain the extremely long-term persistence (more than 500 years) of
+    positive historical experiences of cooperation (Putnam 1993), we model the intergenerational
+    transmission of priors about the trustworthiness of others. We show that this
+    transmission tends to be biased toward excessively conservative priors. As a result,
+    societies can be trapped in a low-trust equilibrium. In this context, a temporary
+    shock to the return to trusting can have a permanent effect on the level of trust.
+    We validate the model by testing its predictions on the World Values Survey data
+    and the German Socio Economic Panel. We also present some anecdotal evidence that
+    these priors are reflected in novels that originate in different parts of the
+    country.
+
+- id: 32
+  title: Does Local Financial Development Matter?
+  pdf: assets/papers/social_capital.pdf
+  authors: Luigi Guiso and Luigi Zingales
+  journal: Quarterly Journal of Economics
+  date: June 2004
+  volume: 94(3)
+  pages: 929-969
+  abstract: We study the effects of differences in local financial development within
+    an integrated financial market. To do so, we construct a new indicator of financial
+    development by estimating a regional effect on the probability that, ceteris paribus,
+    a household is shut off from the credit market. By using this indicator we find
+    that financial development enhances the probability an individual starts his own
+    business, favors entry, increases competition, and promotes growth of firms. As
+    predicted by theory, these effects are weaker for larger firms, which can more
+    easily raise funds outside of the local area. Overall, the results suggest local
+    financial development is an important determinant of the economic success of an
+    area even in an environment where there are no frictions to capital movements.
+
+- id: 33
+  title: The Effects of Government Ownership on Bank Lending
+  pdf: assets/papers/state-enter.pdf
+  journal: Journal of Financial Economics
+  date: May 2004
+  volume: 72(2)
+  pages: 357-384
+  abstract: "This paper uses information on individual loan contracts to study the
+    effects of government ownership on bank lending behavior. State-owned banks charge
+    lower interest rates than do privately owned banks to similar or identical firms,
+    even if firms are able to borrow more from privately owned banks. State-owned
+    banks mostly favor large firms and firms located in depressed areas. The lending
+    behavior of state-owned banks is affected by the electoral results of the party
+    affiliated with the bank: the stronger the political party in the area where the
+    firm is borrowing, the lower the interest rates charged."
+
+- id: 34
+  title: People's Opium? Religion and Economic Attitudes
+  pdf: assets/papers/religion.pdf
+  authors: Luigi Guiso and Luigi Zingales
+  journal: Journal of Monetary Economics
+  date: January 2003
+  volume: 50(1)
+  pages: 225-282
+  abstract: Since Max Weber, there has been an active debate on the impact of religion
+    on people's economic attitudes. Much of the existing evidence, however, is based
+    on cross-country studies in which this impact is confounded by differences in
+    other institutional factors. We use the World Values Surveys to identify the relationship
+    between intensity of religious beliefs and economic attitudes, controlling for
+    country fixed effects. We study several economic attitudes toward cooperation,
+    the government, working women, legal rules, thriftiness, and the market economy.
+    We also distinguish across religious denominations, differentiating on whether
+    a religion is dominant in a country. We find that on average, religious beliefs
+    are associated with "good" economic attitudes, where "good" is defined as conducive
+    to higher per capita income and growth. Yet religious people tend to be more racist
+    and less favorable with respect to working women. These effects differ across
+    religious denominations. Overall, we find that Christian religions are more positively
+    associated with attitudes conducive to economic growth.
+
+- id: 35
+  title: The Effects of Banking Mergers on Loan Contracts
+  journal: Journal of Finance
+  date: February 2002
+  volume: 57(1)
+  pages: 329-368
+  abstract: This paper studies the effects of banking mergers on individual loan borrowers.
+    Using information on individual loan contracts between banks and companies, I
+    analyze the consequences of banking consolidation on banks' credit policies. I
+    find that (i) in-market mergers are beneficial to borrowers if these mergers involve
+    the acquisition of banks with small market shares. In these cases, interest rates
+    charged by the consolidated banks decrease, consistently with the view that horizontal
+    mergers generate efficiency gains. However, as the local market share of the acquired
+    bank increases, the efficiency effect is offset by market power; (ii) mergers
+    have different distributional effects across borrowers of different sizes; (iii)
+    small borrowers of target banks are less likely to borrow in the future from the
+    consolidated bank than borrowers of similar banks not involved in mergers. The
+    decision to deny credit to small borrowers does not seem to be based on the quality
+    of the borrower, confirming potential adverse welfare effects of the banking consolidation
+    on the availability of credit to small businesses.

@@ -1,0 +1,42 @@
+datasets:
+  - id: 1
+    type: Replication package
+    title: "Overconfidence and Preferences for Competition"
+    journal: "Journal of Finance"
+    link: "https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjofi.13314&file=jofi13314-sup-0002-ReplicationCode.zip"
+
+  - id: 2
+    type: Replication package
+    title: "Diversity in Schools: Immigrants and the Educational Performance of U.S. Born Students"
+    journal: "Review of Economic Studies"
+    link: "https://zenodo.org/record/7644650"
+
+  - id: 3
+    type: Replication package
+    title: "Long-Term Orientation and Educational Performance"
+    journal: "American Economic Journal: Economic Policy"
+    link: "https://www.aeaweb.org/journals/dataset?id=10.1257/pol.20180374"
+
+  - id: 4
+    type: Dataset
+    title: "Long-Term Persistence"
+    journal: "Journal of the European Economic Association"
+    link: "assets/datasets/Ltp_replicationpacket.zip"
+
+  - id: 5
+    type: Dataset
+    title: "The Role of Social Capital in Financial Development"
+    journal: "American Economic Review"
+    link: "assets/datasets/soc-capital.zip"
+
+  - id: 6
+    type: Somatic distance dataset
+    title: "Cultural Biases in Economic Exchange?"
+    journal: "The Quarterly Journal of Economics"
+    link: "assets/datasets/somaticdistance.zip"
+
+  - id: 7
+    type: Data (non-copyrighted) to reconstruct Table
+    title: "Cultural Biases in Economic Exchange?"
+    journal: "The Quarterly Journal of Economics"
+    link: "assets/datasets/Table3.dta"

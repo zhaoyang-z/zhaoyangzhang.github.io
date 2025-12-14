@@ -1,0 +1,58 @@
+other_writings:
+  - id: 1
+    title: "A Trust Crisis"
+    authors: "Luigi Zingales"
+    journal: "International Review of Finance"
+    volume: "12(2)"
+    pages: "123-131"
+    date: "June 2012"
+    link: "http://onlinelibrary.wiley.com/doi/10.1111/j.1468-2443.2012.01152.x/abstract"
+    abstract: "We conjecture that the changes in economic activity from late 2008 to early 2009 is due to a drop in trust. We present new survey evidence consistent with this hypothesis."
+
+  - id: 2
+    title: "Between- and within-sex variation in hormonal responses to economic decision making tests in a large sample of MBA students"
+    authors: "Dario Maestripieri, Nicole Baran, and Luigi Zingales"
+    journal: "Stress"
+    date: "September 2010"
+    pdf: "assets/papers/2010Stress.pdf"
+
+  - id: 3
+    title: "A Description of the Templeton-Chicago MBAs Longitudinal Study"
+    authors: "Ernesto Reuben and Luigi Zingales"
+    date: "January 2008"
+    pdf: "assets/papers/TCMLS.pdf"
+    abstract: "This document describes the data analyzed in the Templeton-Chicago MBAs longitudinal study. The study is based on the entire 2008 generation of MBA students from Chicago University's Graduate School of Business. The data described in this document are obtained from three different sources: surveys, laboratory experiments, and the GSB's admission department. We give a brief overview of each data source, in addition to a detailed description of the data-collection procedures."
+
+  - id: 4
+    title: "Can we infer social preferences from the lab? Evidence from the trust game"
+    authors: "Nicole Baran and Luigi Zingales"
+    date: "August 2009"
+    type: "Working Paper"
+    pdf: "assets/papers/Social Preferences.pdf"
+    abstract: "We show that a measure of reciprocity derived from the Berg et al. (1995) trust game in a laboratory setting predicts the reciprocal behavior of the same subjects in a real-world situation. By using the Crowne and Marlowe (1960) social desirability scale, we do not find any evidence that a desire to conform to social norms distorts results in the lab, yet we do find evidence that it affects results in the field."
+
+  - id: 5
+    title: "The Cost of Banking Regulation"
+    authors: "Luigi Guiso and Luigi Zingales"
+    date: "February 2007"
+    type: "Working Paper"
+    pdf: "assets/papers/costofregulation.pdf"
+    abstract: "We use exogenous variation in the degree of restrictions to bank competition across Italian provinces to study both the effects of bank regulation and the impact of deregulation. We find that where entry was more restricted the cost of credit was higher and - contrary to expectations- access to credit lower. The only benefit of these restrictions was a lower proportion of bad loans. Liberalization brings a reduction in rate spreads and an increased access to credit at the cost of an increase in bad loans. In provinces where restrictions to bank competition were most severe, the proportion of bad loans after deregulation raises above the level present in more competitive markets, suggesting that the pre-existing conditions severely impact the effect of liberalizations."
+
+  - id: 6
+    title: "Discussion of \"The Bright Side of Internal Capital Markets\" by Naveen Khanna and Sheri Tice"
+    journal: "Journal of Finance"
+    volume: "56(4)"
+    pages: "1528-1531"
+    date: "August 2001"
+    link: "http://onlinelibrary.wiley.com/doi/10.1111/0022-1082.00378/abstract"
+
+  - id: 7
+    title: "Comments on \"Lessons from Case Studies on Large Insolvencies\""
+    book: "Systemic Financial Crises: Resolving Large Bank Insolvencies"
+    editors: "Douglas D. Evanoff and George G. Kaufman"
+    pages: "391-394"
+    publisher: "World Scientific"
+    location: "New Jersey"
+    date: "2005"
+    link: "http://books.google.com/books?id=T0A0t2GAkM0C"
