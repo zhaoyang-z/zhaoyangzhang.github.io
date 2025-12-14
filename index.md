@@ -7,7 +7,7 @@ title: Home
 <div class="profile-info">
 {% capture profile_content %}
 
-# Paola Sapienza
+# Zhaoyang Zhang
 
 Hoover Institution, Stanford University
 George P. Schulz Building, #316
